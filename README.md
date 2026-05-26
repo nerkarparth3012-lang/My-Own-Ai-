@@ -131,7 +131,3 @@ parth-ai/
 └── README.md                  # This setup and quickstart guide
 ```
 
----
-
-## 📄 License
-This project is licensed under the MIT License — feel free to modify, extend, and use it however you see fit!
